@@ -13,3 +13,4 @@
 ##### • [Java 기초]
 ##### • [Java 프로젝트 및 기본 구조](https://inhwan19991120.tistory.com/30)
 ##### • [Java 기본 입출력](https://inhwan19991120.tistory.com/31)
+##### • [Java 변수와 자료형](https://inhwan19991120.tistory.com/32)
